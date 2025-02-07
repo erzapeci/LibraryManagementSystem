@@ -1,0 +1,64 @@
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe.config
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.pdb
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Dashboard.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Form1.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Properties.Resources.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.GenerateResource.cache
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.exe
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.pdb
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.BibliographicMaterials.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Clients.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Loans.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Payments.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Users.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Reports.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Login.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ActiveClients.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ClientsPayments.resources
+C:\Users\antig\Desktop\Projekti Databaze\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.OverdueLoans.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe.config
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.pdb
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ActiveClients.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.BibliographicMaterials.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Clients.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ClientsPayments.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Dashboard.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Form1.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Loans.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Login.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.OverdueLoans.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Payments.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Properties.Resources.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Reports.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Users.resources
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.GenerateResource.cache
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.exe
+C:\Users\antig\Desktop\ProjektDB\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.pdb
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe.config
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.pdb
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ActiveClients.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.BibliographicMaterials.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Clients.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.ClientsPayments.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Dashboard.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Form1.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Loans.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Login.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.OverdueLoans.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Payments.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Reports.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Users.resources
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.exe
+C:\Users\PC\OneDrive\Desktop\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.pdb
